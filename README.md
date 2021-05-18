@@ -11,3 +11,6 @@ This paper investigates whether energy performance ratings measured by Energy Ef
 ![distHouses](https://user-images.githubusercontent.com/76107657/118630914-e64ac700-b7c6-11eb-8d3c-aa5a8cc421bb.png)
 ### Dwellings in each EPC band (B to G) classified by age band. 
 ![dist2](https://user-images.githubusercontent.com/76107657/118630913-e5199a00-b7c6-11eb-969a-6da058891802.png)
+
+## Results
+There has been an increasing effort over the past decade on improving the environmental performance of housing stocks, due to the growing concern about man-made impact on climate changes. At its core role, the EU compulsory energy efficiency certification has been enforced to improve customer behaviour by supplying consumers with accurate information on the energy output of dwellings. Moreover, the primary concept underpinning the implementation of market-based policy instruments, such as EPC certification due to the fact that, it is often difficult for customers to calculate those desired characteristics directly such as energy efficiency, therefore it would exploit energy-efficient characteristics, which in turn, would stimulate an increased supply of new energy-efficient dwellings and refurbish existing dwellings in order to boost their energy efficiency.
